@@ -205,7 +205,6 @@ jobs:
       continue-on-error: true
 
 
-
   backend-image:
     needs: backend-security
     runs-on: ubuntu-latest
